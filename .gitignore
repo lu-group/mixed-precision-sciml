@@ -1,0 +1,3 @@
+*.pdf
+.ipynb-checkpoints/
+loss landscape/files/*
