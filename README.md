@@ -8,7 +8,7 @@ TODO describe how to get the data for some of the problems
 
 ## Code
 
-- [Loss landscape and gradient analysis](loss landscape/)
+- [Loss landscape and gradient analysis](loss-landscape/)
 - [Burgers equation](pinns/dde_burgers_mixed.ipynb)
 - [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
 - [Kovasznay flow](pinns/Kovasznay_Flow)
