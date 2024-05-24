@@ -1,6 +1,6 @@
 # Mixed Precision Scientific Machine Learning
 
-The data and code for the paper [TODO input link once it comes out](https://...).
+The source code and data for the article [TODO input link once it comes out](https://...).
 
 ## Data
 
@@ -21,11 +21,11 @@ TODO describe how to get the data for some of the problems
 If you use this data or code for academic research, you are encouraged to cite the following paper:
 
 ```
-@article{...,
-  title   = {},
-  author  = {},
-  journal = {},
-  year    = {},
+@article{Hayford2024,
+  title   = {Speeding up and reducing memory usage for scientific machine learning via mixed precision},
+  author  = {Hayford, Joel and Goldman-Wetzler, Jacob and Wang, Eric and Lu, Lu},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  year    = {2024},
   ...
 }
 ```
