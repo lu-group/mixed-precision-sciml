@@ -7,7 +7,7 @@ The dataset used for solving the problems associated with this paper. Some of th
 
 ### DeepONet
 - [Advection equation](Dataset/DeepONet/Advection_equation_dataset/)
-- [Linear Instability wave equation](Dataset/DeepONet/Linear Instability Wave dataset/)
+- [Linear Instability wave equation](Dataset/DeepONet/Linear_Instability_Wave_dataset/)
 Refer to the original paper for this dataset:  
 [URL: https://www.sciencedirect.com/science/article/pii/S0021999122008567](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
