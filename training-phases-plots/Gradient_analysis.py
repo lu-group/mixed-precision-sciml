@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created Jacob 
-@author Goldman-Wetzler
+Created by  
+@author Jacob Goldman-Wetzler
 
 Modified by 
 @author Joel Hayford
