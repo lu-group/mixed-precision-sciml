@@ -5,6 +5,7 @@ The source code and data for the article [TODO input link once it comes out](htt
 ## Data
 
 TODO describe how to get the data for some of the problems
+- [Advection equation](Dataset/DeepONet/Advection equation dataset/)
 Refer to the original paper for this dataset:  
 [URL: https://www.sciencedirect.com/science/article/pii/S0021999122008567](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
