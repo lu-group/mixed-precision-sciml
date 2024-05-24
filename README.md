@@ -6,7 +6,7 @@ The source code and data for the article [TODO input link once it comes out](htt
 The dataset used for solving the problems associated with this paper. Some of the datasets are available on this repository. Others are available on google drive through the attached link.
 
 ### DeepONet
-- [Advection equation](Dataset/DeepONet/Advection equation dataset/)
+- [Advection equation](Dataset/DeepONet/Advection_equation_dataset/)
 - [Linear Instability wave equation](Dataset/DeepONet/Linear Instability Wave dataset/)
 Refer to the original paper for this dataset:  
 [URL: https://www.sciencedirect.com/science/article/pii/S0021999122008567](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
