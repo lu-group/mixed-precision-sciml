@@ -14,6 +14,7 @@ Refer to the original paper for this dataset:
 
 ### PINNs
 - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
+- [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
 ## Code
 
 - [Loss landscape and gradient analysis](loss-landscape/)
