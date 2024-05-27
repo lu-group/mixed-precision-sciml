@@ -10,7 +10,6 @@ The dataset used for solving the problems associated with this paper. Some of th
 - [Linear Instability wave equation](Dataset/DeepONEt/Linear_Instability_Wave_dataset.md)
 Refer to the original paper for this dataset:  
 [URL: https://www.sciencedirect.com/science/article/pii/S0021999122008567](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
-- [PI Diffusion Reaction Equation](Dataset/DeepONEt/PI-Diffusion-Reaction-Equation)
 
 ### PINNs
 - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
