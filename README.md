@@ -1,6 +1,6 @@
 # Mixed Precision Scientific Machine Learning
 
-The source code and data for the article [TODO input link once it comes out](https://...).
+The source code and data for the article [Speeding up and reducing memory usage for scientific machine learning via mixed precision](https://arxiv.org/abs/2401.16645).
 
 ## Data
 The dataset used for solving the problems associated with this paper. Some of the datasets are available on this repository. Others are available on google drive through the attached link.
