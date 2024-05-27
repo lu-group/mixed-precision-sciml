@@ -30,7 +30,7 @@ Refer to the original paper for this dataset:
 If you use this data or code for academic research, you are encouraged to cite the following paper:
 
 ```
-@article{Hayford2024,
+@article{...,
   title   = {Speeding up and reducing memory usage for scientific machine learning via mixed precision},
   author  = {Hayford, Joel and Goldman-Wetzler, Jacob and Wang, Eric and Lu, Lu},
   journal = {Computer Methods in Applied Mechanics and Engineering},
