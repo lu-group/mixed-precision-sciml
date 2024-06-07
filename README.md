@@ -1,6 +1,11 @@
 # Mixed Precision Scientific Machine Learning
 
-The source code and data for the article [Speeding up and reducing memory usage for scientific machine learning via mixed precision](https://arxiv.org/abs/2401.16645).
+The source code and data for the article [J. Hayford, J. Goldman-Wetzler, E. Wang & L. Lu. Speeding up and reducing memory usage for scientific machine learning via mixed precision. Computer Methods in Applied Mechanics and Engineering,
+Volume 428,
+2024,
+117093,
+ISSN 0045-7825,
+https://doi.org/10.1016/j.cma.2024.117093.](https://www.sciencedirect.com/science/article/pii/S0045782524003499).
 
 ## Data
 The dataset used for solving the problems associated with this paper. Some of the datasets are available on this repository. Others are available on google drive through the attached link.
