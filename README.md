@@ -42,7 +42,8 @@ journal = {Computer Methods in Applied Mechanics and Engineering},
 volume = {428},
 pages = {117093},
 year = {2024},
-doi = {https://doi.org/10.1016/j.cma.2024.117093},
+doi = {https://doi.org/10.1016/j.cma.2024.117093}
+}
 ```
 
 ## Questions
