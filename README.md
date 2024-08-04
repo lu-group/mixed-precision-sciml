@@ -22,7 +22,6 @@ Refer to the original paper for this dataset:
 - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
 - [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
 ## Code
-The code used for generating results in the paper.
 - [Loss landscape and gradient analysis](loss-landscape/)
 - [Burgers equation](pinns/dde_burgers_mixed.ipynb)
 - [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
