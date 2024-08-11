@@ -10,7 +10,7 @@ ISSN 0045-7825,
 https://doi.org/10.1016/j.cma.2024.117093.](https://www.sciencedirect.com/science/article/pii/S0045782524003499)
 
 ## Data
-The dataset used for solving the problems associated with this paper. Some of the datasets are available on this repository. Others are available on google drive through the attached link.
+The dataset used for solving the problems associated with this paper.
 
 ### DeepONet
 - [Advection equation](Dataset/DeepONEt/Advection_equation_dataset)
