@@ -3,11 +3,9 @@
 # Mixed Precision Scientific Machine Learning
 
 The data and code for the paper [J. Hayford, J. Goldman-Wetzler, E. Wang & L. Lu. Speeding up and reducing memory usage for scientific machine learning via mixed precision. Computer Methods in Applied Mechanics and Engineering,
-Volume 428,
-2024,
+428,
 117093,
-ISSN 0045-7825,
-https://doi.org/10.1016/j.cma.2024.117093.](https://www.sciencedirect.com/science/article/pii/S0045782524003499)
+2024.](https://www.sciencedirect.com/science/article/pii/S0045782524003499)
 
 ## Data
 The dataset used for solving the problems associated with this paper.
