@@ -34,13 +34,13 @@ If you use this data or code for academic research, you are encouraged to cite t
 
 ```
 @article{HAYFORD2024117093,
-  author = {Hayford, Joel and Goldman-Wetzler, Jacob and Wang, Eric and Lu, Lu},
-  title = {Speeding up and reducing memory usage for scientific machine learning via mixed precision},
+  author  = {Hayford, Joel and Goldman-Wetzler, Jacob and Wang, Eric and Lu, Lu},
+  title   = {Speeding up and reducing memory usage for scientific machine learning via mixed precision},
   journal = {Computer Methods in Applied Mechanics and Engineering},
-  volume = {428},
-  pages = {117093},
-  year = {2024},
-  doi = {https://doi.org/10.1016/j.cma.2024.117093}
+  volume  = {428},
+  pages   = {117093},
+  year    = {2024},
+  doi     = {https://doi.org/10.1016/j.cma.2024.117093}
 }
 ```
 
