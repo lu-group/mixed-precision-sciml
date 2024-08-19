@@ -15,7 +15,6 @@ The dataset used for solving the problems associated with this paper.
     - [Linear Instability wave equation](Dataset/DeepONEt/Linear_Instability_Wave_dataset.md)
     Refer to the original paper for this dataset:  
     [here](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
-
 - Data for PINN examples
     - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
     - [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
@@ -27,7 +26,7 @@ The dataset used for solving the problems associated with this paper.
     - [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
     - [Hemodynamics](pinns/Hemodynamics)
 - Code for DeepONet examples
-    - [POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
+    - [LIW POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
     - [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
 - Loss landscape and gradient analysis    
     - [Loss landscape](loss-landscape/)
