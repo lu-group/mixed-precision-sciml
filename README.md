@@ -10,24 +10,25 @@ The data and code for the paper [J. Hayford, J. Goldman-Wetzler, E. Wang, & L. L
 ## Data
 The dataset used for solving the problems associated with this paper.
 
-- Data for DeepONet examples
+- DeepONet examples
     - [Advection equation](Dataset/DeepONEt/Advection_equation_dataset)
     - [Linear Instability wave equation](Dataset/DeepONEt/Linear_Instability_Wave_dataset.md)
     Refer to the original paper for this dataset:  [here](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
-- Data for PINN examples
+- PINN examples
     - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
     - [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
 
 ## Code
-- Code for PINN examples
+
+- DeepONet examples
+    - [LIW POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
+    - [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
+    - [Advection equation](DeepOnet/Advection-equation)
+- PINN examples
     - [Burgers equation](pinns/dde_burgers_mixed.ipynb)
     - [Kovasznay flow](pinns/Kovasznay_Flow)
     - [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
     - [Hemodynamics](pinns/Hemodynamics)
-- Code for DeepONet examples
-    - [LIW POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
-    - [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
-    - [Advection equation](DeepOnet/Advection-equation)
 - Loss landscape and gradient analysis    
     - [Loss landscape](loss-landscape/)
     - [Training phases analysis](training-phases-plots/)
