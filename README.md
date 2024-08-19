@@ -19,14 +19,20 @@ Refer to the original paper for this dataset:
 ### PINNs
 - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
 - [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
+
 ## Code
-- [Loss landscape and gradient analysis](loss-landscape/)
-- [Burgers equation](pinns/dde_burgers_mixed.ipynb)
-- [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
-- [Kovasznay flow](pinns/Kovasznay_Flow)
-- [Hemodynamics](pinns/Hemodynamics)
-- [POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
-- [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
+- Code for PINN examples
+    - [Burgers equation](pinns/dde_burgers_mixed.ipynb)
+    - [Kovasznay flow](pinns/Kovasznay_Flow)
+    - [Inverse Navier-Stokes](pinns/Navier_Stokes_Inverse)
+    - [Hemodynamics](pinns/Hemodynamics)
+- Code for DeepONet examples
+    - [POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
+    - [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
+- Loss landscape and gradient analysis    
+    - [Loss landscape](loss-landscape/)
+    - [Training phases analysis](training-phases-plots/)
+
 
 ## Cite this work
 
