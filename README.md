@@ -10,15 +10,15 @@ The data and code for the paper [J. Hayford, J. Goldman-Wetzler, E. Wang, & L. L
 ## Data
 The dataset used for solving the problems associated with this paper.
 
-### DeepONet
-- [Advection equation](Dataset/DeepONEt/Advection_equation_dataset)
-- [Linear Instability wave equation](Dataset/DeepONEt/Linear_Instability_Wave_dataset.md)
-Refer to the original paper for this dataset:  
-[URL: https://www.sciencedirect.com/science/article/pii/S0021999122008567](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
+- Data for DeepONet examples
+    - [Advection equation](Dataset/DeepONEt/Advection_equation_dataset)
+    - [Linear Instability wave equation](Dataset/DeepONEt/Linear_Instability_Wave_dataset.md)
+    Refer to the original paper for this dataset:  
+    [here](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
-### PINNs
-- [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
-- [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
+- Data for PINN examples
+    - [Inverse problem of flow in a rectangular domain](Dataset/PINNs/Inverse_problem_of_flow_in_a_rectangular_domain)
+    - [Inverse problem of hemodynamics](Dataset/PINNs/Inverse_problem_of_hemodynamics/hemodynamics.md)
 
 ## Code
 - Code for PINN examples
@@ -32,7 +32,8 @@ Refer to the original paper for this dataset:
 - Loss landscape and gradient analysis    
     - [Loss landscape](loss-landscape/)
     - [Training phases analysis](training-phases-plots/)
-
+- Theoretical analysis of mixed precision accuracy
+    - [Theorem one validation](analysis-of-accuracy/)
 
 ## Cite this work
 
