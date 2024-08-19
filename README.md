@@ -27,6 +27,7 @@ The dataset used for solving the problems associated with this paper.
 - Code for DeepONet examples
     - [LIW POD DeepONet](DeepOnet/LIW_POD_DeepOnet)
     - [Physics-informed DeepONet](DeepOnet/PI-Diffusion-Reaction-Equation)
+    - [Advection equation](DeepOnet/Advection-equation)
 - Loss landscape and gradient analysis    
     - [Loss landscape](loss-landscape/)
     - [Training phases analysis](training-phases-plots/)
